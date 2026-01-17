@@ -96,6 +96,8 @@ button {
 
 .mario {
     height: 60%;
+    position:relative;
+    bottom: 90px;
 }
 
 p {
@@ -120,7 +122,6 @@ p {
     left: -330px;
     transition: left 1s linear;
     z-index: 4;
-    /* transform: translateX(0); */
 }
 
 input {
